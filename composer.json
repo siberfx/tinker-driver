@@ -1,5 +1,5 @@
 {
-    "name": "siberfx/tinker",
+    "name": "siberfx/tinker-driver",
     "license": "MIT",
     "description": "BotMan tinker command for your Laravel BotMan project",
     "keywords": [
@@ -8,7 +8,7 @@
         "Laravel",
         "Tinker"
     ],
-    "homepage": "http://github.com/siberfx/tinker",
+    "homepage": "http://github.com/siberfx/tinker-driver",
     "authors": [
         {
             "name": "Selim GÖRMÜŞ",
